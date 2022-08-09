@@ -1,5 +1,4 @@
 # E-Commerce_Web_APP_Automation_Testing_Project
-This Project is part of Front-End and Web Performance Nanodegree from Udacity.
 
 These are Automated Test Scenarios testing E-Commerce Web Application main Functionality using Selenium Web driver, Cucumber Java and TestNG. 
 
